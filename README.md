@@ -9,6 +9,8 @@ To write a python program to perform stop and wait protocol
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
+### Developed By: VIDHYA SHREE K
+### Register No: 212225230296
 ### Client:
 ```
 import socket 
